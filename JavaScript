@@ -1,0 +1,7 @@
+$(document).ready(function() {
+
+	$('.lightbox').fancybox({
+		// Options will go here
+	});
+
+});
